@@ -72,14 +72,16 @@
 <img src="img/S__116465680.jpg" width="60%"><br>
 
 ## キー配置
-北側のマウスボタンが左クリック、南側のマウスボタンが右クリックになっています。
+北側のマウスボタンが左クリック、南側のマウスボタンが右クリックになっています。<br>
 詳細なキー配置は下記レポジトリのside48.keymapをご確認ください。<br>
 [https://github.com/PowerEnterKey/zmk-PEKS48/blob/main/boards/shields/peks48/peks48.keymap](https://github.com/PowerEnterKey/zmk-SIDE48/blob/main/config/side48.keymap)
 
 SIDE48はKeymap Editorに対応していますが、マウスボタンはEditor側がうまく対応できていないようです。<br>
 (自分の実力不足の可能性もあります。。。)<br>
 確実にキーマップを変更したい場合は、下記レポジトリをご自身のアカウントでフォークして変更をお願いします。<br>
+<br>
 https://github.com/PowerEnterKey/zmk-SIDE48<br>
+<br>
 ZMK StudioおよびKeymap Editorの詳しい使用方法につきましては、公開先のウェブサイトをご確認下さい。
 
 ## Bluetoothが繋がらない場合
