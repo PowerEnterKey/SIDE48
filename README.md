@@ -21,29 +21,29 @@
 
 ## 組み立て手順
 以下の状態で郵送されます。<br>
-<img src="img/S__109133841_0.jpg" width="40%"><br>
+<img src="img/S__116465669.jpg" width="40%"><br>
 
 この状態でキースイッチを刺してもよいですが、<br>
 静音フォームを貼るとよい感じなのでケースを外します。<br>
 裏返すと四隅にネジがあるので外します。<br>
 ネジを外すとケース(トップ) が外せます。<br>
-<img src="img/S__109133844_0.jpg" width="40%"><br>
+<img src="img/S__116465670.jpg" width="40%"><br>
 
 静音用フォームを貼っていきます。<br>
-<img src="img/S__109133851_0.jpg" width="40%"><br>
+<img src="img/S__116465674.jpg" width="40%"><br>
 穴が塞がりますが、大丈夫です。<br>
 後でスイッチを刺す際はこのまま挿して（フォームを貫通させて）問題ないです。<br>
-<img src="img/S__109133851_0.jpg" width="40%"><br>
+<img src="img/S__116465676.jpg" width="40%"><br>
 
 基板の四隅は3D製のダンパで打鍵感を良くしています。
 フォームを貼っているときなどに外れたら図のようにはめなおしてください。
-<img src="img/S__109133851_0.jpg" width="40%"><br>
+<img src="img/S__116465672.jpg" width="40%"><br>
 
 次に、スイッチをはめていきます。<br>
 上からスイッチースイッチプレートー基板となるようにはめます。<br>
 クリックスイッチの足とスイッチプレートが干渉しないように、スイッチプレートには凹凸がありますので、
 スイッチプレートは図の向きで使用してください。<br>
-<img src="img/S__109133851_0.jpg" width="40%"><br>
+<img src="img/S__116465675.jpg" width="40%"><br>
 
 スイッチを全て刺して、<br>
 キーキャップを全てはめて、<br>
@@ -53,26 +53,31 @@
 完成です！<br>
 <img src="img/S__109133852_0.jpg" width="30%"><br>
 
+
+## 注意点
+側面についているマウススイッチの押下箇所は<br>
+3Dプリント製なので折れやすい可能性があります。<br>
+スイッチがない状態で押したりしないように注意してください<br>
+
 ## 電池について
 単4電池1本（両手分で計2本）で動きます。<br>
 向きに注意してください。<br>
-<img src="img/S__109133868_0.jpg" width="30%"><br>
+<img src="img/S__116465677.jpg" width="30%"><br>
 
 ## 電源スイッチ
 両手でON方向が異なります。（すみません、ミスりました）<br>
 下の図の位置が両手とも「OFF」状態です。<br>
-<img src="img/S__110657547.jpg" width="60%"><br>
+<img src="img/S__116465678.jpg" width="60%"><br>
 下の図の位置が両手とも「ON」状態です。起動時にはマイコンLEDが光ります。<br>
-<img src="img/S__110657547.jpg" width="60%"><br>
+<img src="img/S__116465680.jpg" width="60%"><br>
 
-## 初期キー配置
-初期のキー配置は以下のようになっています。<br>
-(日本語キーボードとして使用しているのでkeymap Editor上では一部エラーとして表示されてしまいます)<br>
-詳細なキー配置は下記レポジトリのpeks48.keymapをご確認ください。<br>
-[https://github.com/PowerEnterKey/zmk-PEKS48<br>](https://github.com/PowerEnterKey/zmk-PEKS48/blob/main/boards/shields/peks48/peks48.keymap)
-<img src="img/keymap_PEKS48.png" width="60%"><br>
+## キー配置
+北側のマウスボタンが左クリック、南側のマウスボタンが右クリックになっています。
+詳細なキー配置は下記レポジトリのside48.keymapをご確認ください。<br>
+[https://github.com/PowerEnterKey/zmk-PEKS48/blob/main/boards/shields/peks48/peks48.keymap](https://github.com/PowerEnterKey/zmk-SIDE48/blob/main/config/side48.keymap)
 
-PEKS48はKeymap Editorに対応していますが、マウスボタンはEditor側がうまく対応できていないようです。<br>
+SIDE48はKeymap Editorに対応していますが、マウスボタンはEditor側がうまく対応できていないようです。<br>
+(自分の実力不足の可能性もあります。。。)<br>
 確実にキーマップを変更したい場合は、下記レポジトリをご自身のアカウントでフォークして変更をお願いします。<br>
 https://github.com/PowerEnterKey/zmk-SIDE48<br>
 ZMK StudioおよびKeymap Editorの詳しい使用方法につきましては、公開先のウェブサイトをご確認下さい。
