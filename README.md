@@ -76,13 +76,15 @@
 詳細なキー配置は下記レポジトリのside48.keymapをご確認ください。<br>
 https://github.com/PowerEnterKey/zmk-SIDE48/blob/main/config/side48.keymap
 
-SIDE48はKeymap Editorに対応していますが、マウスボタンはEditor側がうまく対応できていないようです。<br>
-(自分の実力不足の可能性もあります。。。)<br>
-確実にキーマップを変更したい場合は、下記レポジトリをご自身のアカウントでフォークして変更をお願いします。<br>
+SIDE48はKeymap Editor, DYA STUDIOに対応しています。
+マウスボタンやドラボ設定はDYA STUDIOがおすすめです。<br>
+https://studio.dya.cormoran.works/keymap<br>
+
+詳細にキーマップを変更したい場合は、下記レポジトリをご自身のアカウントでフォークして変更をお願いします。<br>
 <br>
 https://github.com/PowerEnterKey/zmk-SIDE48<br>
 <br>
-ZMK StudioおよびKeymap Editorの詳しい使用方法につきましては、公開先のウェブサイトをご確認下さい。
+ZMK Studio, Keymap Editor, DYA STUDIOの詳しい使用方法につきましては、公開先のウェブサイトをご確認下さい。
 
 ## Bluetoothが繋がらない場合
 PCとBluetoothのch選択が間違っている可能性があります。
