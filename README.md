@@ -77,7 +77,7 @@
 https://github.com/PowerEnterKey/zmk-SIDE48/blob/main/config/side48.keymap
 
 SIDE48はKeymap Editor, DYA STUDIOに対応しています。<br>
-マウスボタンやドラボ設定はDYA STUDIOがおすすめです。<br>
+マウスボタンやトラボ設定はDYA STUDIOがおすすめです。<br>
 https://studio.dya.cormoran.works/keymap<br>
 
 詳細にキーマップを変更したい場合は、下記レポジトリをご自身のアカウントでフォークして変更をお願いします。<br>
