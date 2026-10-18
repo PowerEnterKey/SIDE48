@@ -75,13 +75,14 @@
 北側のマウスボタンが左クリック、南側のマウスボタンが右クリックになっています。<br>
 詳細なキー配置は下記レポジトリのside48.keymapをご確認ください。<br>
 https://github.com/PowerEnterKey/zmk-SIDE48/blob/main/config/side48.keymap
+<br>
 
 SIDE48はKeymap Editor, DYA STUDIOに対応しています。<br>
 マウスボタンやトラボ設定はDYA STUDIOがおすすめです。<br>
 https://studio.dya.cormoran.works/keymap<br>
+<br>
 
 詳細にキーマップを変更したい場合は、下記レポジトリをご自身のアカウントでフォークして変更をお願いします。<br>
-<br>
 https://github.com/PowerEnterKey/zmk-SIDE48<br>
 <br>
 ZMK Studio, Keymap Editor, DYA STUDIOの詳しい使用方法につきましては、公開先のウェブサイトをご確認下さい。
