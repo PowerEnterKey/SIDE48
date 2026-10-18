@@ -76,7 +76,7 @@
 詳細なキー配置は下記レポジトリのside48.keymapをご確認ください。<br>
 https://github.com/PowerEnterKey/zmk-SIDE48/blob/main/config/side48.keymap
 
-SIDE48はKeymap Editor, DYA STUDIOに対応しています。
+SIDE48はKeymap Editor, DYA STUDIOに対応しています。<br>
 マウスボタンやドラボ設定はDYA STUDIOがおすすめです。<br>
 https://studio.dya.cormoran.works/keymap<br>
 
